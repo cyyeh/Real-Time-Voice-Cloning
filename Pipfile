@@ -22,6 +22,10 @@ Unidecode = "*"
 PyQt5 = "*"
 jupyterlab = "*"
 tensorflow = "==1.14.0"
+libportaudio2 = "*"
+gdown = "*"
+google-colab = "*"
+torch = "*"
 
 [requires]
 python_version = "3.7"
